@@ -1,4 +1,0 @@
-PTE_APP.MainActivity, PTE_APP;md5ecea7f87d442059f5dba1fb5e65e3ec2.MainActivity
-PTE_APP.MainActivity, PTE_APP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecea7f87d442059f5dba1fb5e65e3ec2.MainActivity
-PTE_APP.MainActivity;md5ecea7f87d442059f5dba1fb5e65e3ec2.MainActivity
-pte_app.MainActivity;md5ecea7f87d442059f5dba1fb5e65e3ec2.MainActivity
