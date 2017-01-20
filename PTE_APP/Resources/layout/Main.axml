@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="#13818d">
+    <ImageView
+        android:src="@drawable/header"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/imageView_main_upside"
+        android:layout_marginTop="60dp" />
+    <ImageView
+        android:src="@drawable/practice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView_main_middle"
+        android:scaleType="fitCenter"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:layout_marginBottom="10dp" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout_main_funcion">
+        <ImageButton
+            android:src="@drawable/speaking"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/imageButton_main_speaking"
+            android:background="@android:color/transparent"
+            android:paddingLeft="60dp"
+            android:paddingRight="60dp"
+            android:scaleType="fitCenter" />
+        <ImageButton
+            android:src="@drawable/writting"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/imageButton_main_writting"
+            android:background="@android:color/transparent"
+            android:paddingLeft="60dp"
+            android:paddingRight="60dp"
+            android:scaleType="fitCenter" />
+        <ImageButton
+            android:src="@drawable/reading"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/imageButton_main_reading"
+            android:background="@android:color/transparent"
+            android:paddingLeft="60dp"
+            android:paddingRight="60dp"
+            android:scaleType="fitCenter" />
+        <ImageButton
+            android:src="@drawable/listening"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/imageButton_main_listening"
+            android:background="@android:color/transparent"
+            android:paddingLeft="60dp"
+            android:paddingRight="60dp"
+            android:scaleType="fitCenter" />
+    </LinearLayout>
+</LinearLayout>

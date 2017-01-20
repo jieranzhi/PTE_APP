@@ -1,0 +1,28 @@
+PTE_APP.JavaObject`1, PTE_APP;md5ecea7f87d442059f5dba1fb5e65e3ec2.JavaObject_1
+PTE_APP.JavaObject`1, PTE_APP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecea7f87d442059f5dba1fb5e65e3ec2.JavaObject_1
+PTE_APP.JavaObject`1;md5ecea7f87d442059f5dba1fb5e65e3ec2.JavaObject_1
+pte_app.JavaObject_1;md5ecea7f87d442059f5dba1fb5e65e3ec2.JavaObject_1
+PTE_APP.ListeningTestActivity, PTE_APP;md5ecea7f87d442059f5dba1fb5e65e3ec2.ListeningTestActivity
+PTE_APP.ListeningTestActivity, PTE_APP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecea7f87d442059f5dba1fb5e65e3ec2.ListeningTestActivity
+PTE_APP.ListeningTestActivity;md5ecea7f87d442059f5dba1fb5e65e3ec2.ListeningTestActivity
+pte_app.ListeningTestActivity;md5ecea7f87d442059f5dba1fb5e65e3ec2.ListeningTestActivity
+PTE_APP.MainActivity, PTE_APP;md5ecea7f87d442059f5dba1fb5e65e3ec2.MainActivity
+PTE_APP.MainActivity, PTE_APP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecea7f87d442059f5dba1fb5e65e3ec2.MainActivity
+PTE_APP.MainActivity;md5ecea7f87d442059f5dba1fb5e65e3ec2.MainActivity
+pte_app.MainActivity;md5ecea7f87d442059f5dba1fb5e65e3ec2.MainActivity
+PTE_APP.MyClickableSpan, PTE_APP;md5ecea7f87d442059f5dba1fb5e65e3ec2.MyClickableSpan
+PTE_APP.MyClickableSpan, PTE_APP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecea7f87d442059f5dba1fb5e65e3ec2.MyClickableSpan
+PTE_APP.MyClickableSpan;md5ecea7f87d442059f5dba1fb5e65e3ec2.MyClickableSpan
+pte_app.MyClickableSpan;md5ecea7f87d442059f5dba1fb5e65e3ec2.MyClickableSpan
+PTE_APP.TestActivity, PTE_APP;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestActivity
+PTE_APP.TestActivity, PTE_APP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestActivity
+PTE_APP.TestActivity;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestActivity
+pte_app.TestActivity;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestActivity
+PTE_APP.TestItemLayout, PTE_APP;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestItemLayout
+PTE_APP.TestItemLayout, PTE_APP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestItemLayout
+PTE_APP.TestItemLayout;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestItemLayout
+pte_app.TestItemLayout;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestItemLayout
+PTE_APP.TestMainActivity, PTE_APP;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestMainActivity
+PTE_APP.TestMainActivity, PTE_APP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestMainActivity
+PTE_APP.TestMainActivity;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestMainActivity
+pte_app.TestMainActivity;md5ecea7f87d442059f5dba1fb5e65e3ec2.TestMainActivity

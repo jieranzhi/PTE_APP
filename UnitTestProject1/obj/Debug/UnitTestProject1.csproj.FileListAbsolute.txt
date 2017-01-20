@@ -1,0 +1,7 @@
+C:\Users\wenkang lin\Documents\Visual Studio 2015\Projects\PTE_APP\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\wenkang lin\Documents\Visual Studio 2015\Projects\PTE_APP\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\wenkang lin\Documents\Visual Studio 2015\Projects\PTE_APP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\wenkang lin\Documents\Visual Studio 2015\Projects\PTE_APP\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\wenkang lin\Documents\Visual Studio 2015\Projects\PTE_APP\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\wenkang lin\Documents\Visual Studio 2015\Projects\PTE_APP\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\wenkang lin\Documents\Visual Studio 2015\Projects\PTE_APP\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
